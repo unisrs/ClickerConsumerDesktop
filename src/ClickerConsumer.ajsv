@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)-->
+<ajsv>
+    <diagram creationDate="2012-Apr-19 04:58" licenseGrade="non-commercial" licenseeName="Alexander_Preston" licenseeOrganization="www.uni.edu" style="defaultDiagramStyle" version="1.7.7.v20120311-1127">
+        <switch switchID="howToShowDependenciesOptions" switchValue="hidden"/>
+        <class className="IMPCommunicationHub" project="ClickerConsumer" xLocation="1737" yLocation="1082"/>
+        <class className="IMPVisual" project="ClickerConsumer" xLocation="881" yLocation="1075"/>
+        <class className="ConsumerSelectionBox" project="ClickerConsumer" xLocation="100" yLocation="1072"/>
+        <class className="ConsumerNotFoundException" project="ClickerConsumer" xLocation="1207" yLocation="1666"/>
+        <class className="CommunicationHub" project="ClickerConsumer" xLocation="1611" yLocation="100"/>
+        <class className="ClickerConsumerInterface" project="ClickerConsumer" xLocation="1712" yLocation="753"/>
+    </diagram>
+</ajsv>
